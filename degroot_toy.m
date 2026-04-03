@@ -1,6 +1,6 @@
 clear; clc; close all;
 
-%% DeGroot model on a toy network
+% DeGroot model on a toy network
 % x(k+1) = W * x(k)
 
 % Number of agents
